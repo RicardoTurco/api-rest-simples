@@ -10,7 +10,6 @@ public class Department {
     }
 
     public Department(Long id, String name) {
-        super();
         this.id = id;
         this.name = name;
     }
