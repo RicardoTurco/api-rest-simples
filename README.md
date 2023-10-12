@@ -1,5 +1,10 @@
 # api-rest-simples
-Exemplo de uma API Rest simples utilizando Java e Spring
+```
+Exemplo de uma API Rest simples utilizando Java e Spring. 
+
+É importante ressaltar que as informações / registros retornados nos endpoints do projeto
+estão sendo criados "hard coded", ou seja, estão "fixos" no código.
+```
 
 O projeto foi criado utilizando o spring initializr:
 https://start.spring.io/
